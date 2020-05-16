@@ -1,0 +1,11 @@
+量子コンピュータの仕組みをエクセルで理解してみよう ～量子アニーリングの古典版「シミュレーテッドアニーリング」の実装～
+https://codezine.jp/article/detail/9491?p=4
+
+やってみよう分析！おまけ 2 - 2： Excel VBAでモンテカルロ・シミュレーション(メトロポリス法：2次元イジングモデルの例)
+https://qiita.com/msano/items/e6d0f941ba038cc1a62c
+
+
+https://blog.brainpad.co.jp/entry/2017/04/20/160000
+物理のいらない量子アニーリング入門
+
+
